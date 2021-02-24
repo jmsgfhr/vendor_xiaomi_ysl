@@ -643,16 +643,16 @@ PRODUCT_PACKAGES += \
     libgpustats \
     libsdm-disp-vndapis \
     libtime_genoff \
-    libloc_api_v02 \
-    QtiTelephonyService \
-    CNEService \
-    WfdService \
-    ims \
-    qcrilmsgtunnel \
-    PowerOffAlarm \
-    TimeService \
-    WfdCommon \
-    QPerformance \
-    UxPerformance \
-    chargeonlymode
+    libloc_api_v02 
+    #QtiTelephonyService \
+    #CNEService \
+    #WfdService \
+    #ims \
+    #qcrilmsgtunnel \
+    #PowerOffAlarm \
+    #TimeService \
+    #WfdCommon \
+    #QPerformance \
+    #UxPerformance \
+    #chargeonlymode
 	
